@@ -1,4 +1,4 @@
-# mamba_env_NCIL
+# Create a NCIL data science environment
 Create data science environment in python for NCIL
 
 To use, download/clone the ncil.yml file to your computer (home directory is fine). Then in a terminal window, in the same directory where you saved the ncil.yml file, run:
