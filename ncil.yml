@@ -1,0 +1,68 @@
+name: ncil
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python
+  - notebook
+  - jupyterlab
+  # - npm
+  - numpy
+  - altair
+  - beautifulsoup4
+  - bokeh
+  - bottleneck
+  - cloudpickle
+  - conda-forge::blas=*=openblas
+  - cython
+  - dask
+  - dill
+  - h5py
+  - ipympl
+  - ipywidgets
+  - matplotlib-base
+  - numba
+  - numexpr
+  - pandas
+  # - pandoc
+  - patsy
+  - Pillow
+  - protobuf
+  - pytables
+  - pyyaml
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - sqlalchemy
+  - statsmodels
+  - sympy
+  - widgetsnbextension
+  - xlrd
+  - pip
+# Aaron's additions beyond the vanilla docker-image pacakges
+  # - termcolor
+  - pydicom
+  - dicom2nifti
+  - dcm2bids
+  - gh
+  - ghp-import
+  - jupyter-book
+  - jupyterlab-git
+  - nbconvert
+  # - nbgrader
+  - nodejs
+  # # - npm
+  - nibabel
+  - nilearn
+  - opencv
+  - mne
+  - mne-bids
+  - mne-qt-browser
+  - autoreject
+  - python-picard
+  - h5io
+  - h5py
+  - pymatreader
+  - pyarrow
+  - openpyxl
