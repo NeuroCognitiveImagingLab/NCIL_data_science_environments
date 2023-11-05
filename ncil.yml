@@ -6,7 +6,6 @@ dependencies:
   - python
   - notebook
   - jupyterlab
-  # - npm
   - numpy
   - altair
   - beautifulsoup4
@@ -24,12 +23,13 @@ dependencies:
   - numba
   - numexpr
   - pandas
-  # - pandoc
+  - pandoc
   - patsy
   - Pillow
   - protobuf
   - pytables
   - pyyaml
+  - regex
   - scikit-image
   - scikit-learn
   - scipy
@@ -50,19 +50,19 @@ dependencies:
   - jupyter-book
   - jupyterlab-git
   - nbconvert
-  # - nbgrader
   - nodejs
-  # # - npm
   - nibabel
   - nilearn
   - opencv
   - mne
   - mne-bids
   - mne-qt-browser
+  - mayavi
+  - pyvista
   - autoreject
   - python-picard
   - h5io
   - h5py
   - pymatreader
   - pyarrow
-  - openpyxl
+  - configparser

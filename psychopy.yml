@@ -1,0 +1,39 @@
+name: psychopy
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+- python=3.8
+- pip
+# - pip:
+#   - pyobjc-framework-Quartz
+#   - psychtoolbox
+#   - pygame
+#   # - pyo
+#   - pyparallel; platform_system != "Windows"
+#   - SoundFile; platform_system == "Windows"
+#   - websocket_client
+#   # - psychopy
+- notebook
+- jupyterlab
+# - npm
+- numpy
+- conda-forge::blas=*=openblas
+- ipympl
+- ipywidgets
+- matplotlib-base
+- numexpr
+- pandas
+- pytables
+- pyyaml
+- scikit-image
+- scikit-learn
+- scipy
+- seaborn
+- statsmodels
+- gh
+- nodejs
+- opencv
+- pymatreader
+- pyarrow
+- openpyxl
