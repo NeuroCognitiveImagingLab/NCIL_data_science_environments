@@ -14,6 +14,7 @@ dependencies:
 #   - SoundFile; platform_system == "Windows"
 #   - websocket_client
 #   # - psychopy
+- ipykernel
 - notebook
 - jupyterlab
 # - npm
