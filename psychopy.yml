@@ -4,16 +4,15 @@ channels:
   - nodefaults
 dependencies:
 - python=3.8
+- psychopy
 - pip
-# - pip:
-#   - pyobjc-framework-Quartz
-#   - psychtoolbox
-#   - pygame
-#   # - pyo
-#   - pyparallel; platform_system != "Windows"
-#   - SoundFile; platform_system == "Windows"
-#   - websocket_client
-#   # - psychopy
+- pip:
+  - psychtoolbox
+  - pygame
+  - pyo
+  - pyparallel; platform_system != "Windows"
+  - SoundFile; platform_system == "Windows"
+  - websocket_client
 - ipykernel
 - notebook
 - jupyterlab
