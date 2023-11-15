@@ -1,0 +1,66 @@
+name: neural_data_science
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python
+  - notebook
+  - jupyterlab
+  - numpy
+  # - altair
+  # - beautifulsoup4
+  # - bokeh
+  # - bottleneck
+  # - cloudpickle
+  - conda-forge::blas=*=openblas
+  # - cython
+  # - dask
+  # - dill
+  - ipympl
+  - ipywidgets
+  - matplotlib-base
+  # - numba
+  - numexpr
+  - pandas
+  - pandoc
+  # - patsy
+  # - Pillow
+  # - protobuf
+  - pytables
+  - pyyaml
+  - regex
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  # - sqlalchemy
+  - statsmodels
+  # - sympy
+  # - widgetsnbextension
+  - xlrd
+  - pip
+  - pydicom
+  - dicom2nifti
+  - dcm2bids
+  - gh
+  - ghp-import
+  - jupyter-book
+  - nbconvert
+  - nodejs
+  - nibabel
+  - nilearn
+  - opencv
+  - mne
+  - mne-bids
+  - mne-qt-browser
+  - mayavi
+  - pyvista
+  - autoreject
+  - python-picard
+  - h5io
+  - h5py
+  - pymatreader
+  - pyarrow
+  - configparser
+  - pip:
+    - vectorfieldplot
