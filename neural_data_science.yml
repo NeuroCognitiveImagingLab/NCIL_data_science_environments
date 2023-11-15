@@ -62,5 +62,5 @@ dependencies:
   - pymatreader
   - pyarrow
   - configparser
-  - pip:
-    - vectorfieldplot
+  # - pip:
+  #   - vectorfieldplot
