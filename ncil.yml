@@ -8,19 +8,12 @@ dependencies:
   - jupyterlab
   - numpy
   - altair
-  - beautifulsoup4
-  - bokeh
-  - bottleneck
-  - cloudpickle
   - conda-forge::blas=*=openblas
   - cython
-  - dask
-  - dill
   - h5py
   - ipympl
   - ipywidgets
   - matplotlib-base
-  - numba
   - numexpr
   - pandas
   - pandoc
@@ -34,14 +27,11 @@ dependencies:
   - scikit-learn
   - scipy
   - seaborn
-  - sqlalchemy
   - statsmodels
   - sympy
   - widgetsnbextension
   - xlrd
   - pip
-# Aaron's additions beyond the vanilla docker-image pacakges
-  # - termcolor
   - pydicom
   - dicom2nifti
   - dcm2bids
@@ -66,3 +56,40 @@ dependencies:
   - pymatreader
   - pyarrow
   - configparser
+  - r-base
+  - r-essentials
+  - r-arrow 
+  - r-e1071
+  - r-emmeans 
+  - r-ggeffects
+  - r-sjplot 
+  - r-sjstats 
+  - r-stargazer 
+  # - r-brms
+  # - r-car 
+  # - r-corrplot
+  # - r-devtools
+  # - r-forecast
+  # - r-ggthemes 
+  # - r-hexbin
+  # - r-htmltools
+  # - r-htmlwidgets
+  # - r-languageserver
+  # - r-lattice 
+  # - r-lme4 
+  # - r-mgcv
+  # - r-party 
+  # - r-partykit 
+  # - r-ranger
+  # - r-rann
+  # - r-rcurl
+  # - r-reshape2 
+  # - r-rmarkdown
+  # - r-rodbc
+  # - r-rsqlite
+  # - r-see 
+  # - r-shiny
+  # - r-tidymodels
+  # - r-tidyverse
+  # - r-viridis
+  # - rpy2
