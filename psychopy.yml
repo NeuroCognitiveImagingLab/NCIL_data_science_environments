@@ -1,9 +1,8 @@
 name: psychopy
 channels:
   - conda-forge
-  - nodefaults
 dependencies:
-- python=3.8
+- python=3.9
 - psychopy
 - pip
 - pip:
@@ -15,25 +14,22 @@ dependencies:
   - websocket_client
 - ipykernel
 - notebook
-- jupyterlab
+# - jupyterlab
 # - npm
-- numpy
-- conda-forge::blas=*=openblas
-- ipympl
-- ipywidgets
-- matplotlib-base
-- numexpr
-- pandas
-- pytables
-- pyyaml
-- scikit-image
-- scikit-learn
-- scipy
-- seaborn
-- statsmodels
-- gh
-- nodejs
-- opencv
-- pymatreader
-- pyarrow
-- openpyxl
+# - conda-forge::blas=*=openblas
+# - ipympl
+# - ipywidgets
+# - numexpr
+# - pytables
+# - pyyaml
+# - scikit-image
+# - scikit-learn
+# - scipy
+# - seaborn
+# - statsmodels
+# - gh
+# - nodejs
+# - opencv
+# - pymatreader
+# - pyarrow
+# - openpyxl
