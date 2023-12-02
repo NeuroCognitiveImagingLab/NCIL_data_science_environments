@@ -3,9 +3,10 @@ channels:
   - conda-forge
 dependencies:
 - python=3.9
-- psychopy
 - pip
 - pip:
+  - psychopy
+  - pylsl
   - psychtoolbox
   - pygame
   - pyo
