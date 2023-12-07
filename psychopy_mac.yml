@@ -6,6 +6,7 @@ dependencies:
 - pip
 - h5py
 - hdf5
+- liblsl
 - pip:
   - psychopy
   - pylsl
