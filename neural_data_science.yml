@@ -36,6 +36,7 @@ dependencies:
   - nilearn
   - opencv
   - mne
+  - mnelab
   - mne-bids
   - mne-qt-browser
   - mayavi
