@@ -46,6 +46,7 @@ dependencies:
   - opencv
   - mne
   - mne-bids
+  - mne-nirs
   - mne-qt-browser
   - mayavi
   - pyvista

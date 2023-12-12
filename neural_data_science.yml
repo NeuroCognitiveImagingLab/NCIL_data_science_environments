@@ -38,6 +38,7 @@ dependencies:
   - mne
   - mnelab
   - mne-bids
+  - mne-nirs
   - mne-qt-browser
   - mayavi
   - pyvista
