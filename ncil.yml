@@ -57,6 +57,7 @@ dependencies:
   - pymatreader
   - pyarrow
   - configparser
+  - pingouin
   - r-base
   - r-essentials
   - r-arrow 
