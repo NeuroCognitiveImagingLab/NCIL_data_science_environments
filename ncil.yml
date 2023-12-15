@@ -48,6 +48,7 @@ dependencies:
   - mne-bids
   - mne-nirs
   - mne-qt-browser
+  - pyxdf
   - mayavi
   - pyvista
   - autoreject
