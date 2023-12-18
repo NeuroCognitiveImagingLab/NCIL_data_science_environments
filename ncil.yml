@@ -68,6 +68,8 @@ dependencies:
   - r-sjplot 
   - r-sjstats 
   - r-stargazer 
+  - pip:
+    - mnelab
   # - r-brms
   # - r-car 
   # - r-corrplot
@@ -96,3 +98,4 @@ dependencies:
   # - r-tidyverse
   # - r-viridis
   # - rpy2
+
