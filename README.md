@@ -8,7 +8,7 @@ The environments:
 - psychopy.yml: Python environment for running PsychoPy experiments. Includes PsychoPy, as well as basic packages for data analysis (pandas, numpy, matplotlib, seaborn, scikit-learn, and more). Adapted from the one provided by PsychoPy, with additions including jupyter notebooks (so you can create and run PsychoPy experiments or code snippets in Jupyter notebooks).
 
 
-To use, fork this repository to your computer, or just download the individual file you want. Then in a terminal window, `cd` to the folder containing this repository and run:
+To use, fork this repository to your computer, or just download the individual file you want. Then in a terminal window (**on Windows this *must* be a Conda or Miniforget Terminal**), `cd` to the folder containing this repository and run:
 ```
 mamba env create -f ncil.yml
 ```
