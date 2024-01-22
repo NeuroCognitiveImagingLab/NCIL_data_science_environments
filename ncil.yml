@@ -48,6 +48,7 @@ dependencies:
   - mne-bids
   - mne-nirs
   - mne-qt-browser
+  - pyxdf
   - mayavi
   - pyvista
   - autoreject
@@ -67,6 +68,8 @@ dependencies:
   - r-sjplot 
   - r-sjstats 
   - r-stargazer 
+  - pip:
+    - mnelab
   pip:
     - rev_ai
   # - r-brms
@@ -97,3 +100,4 @@ dependencies:
   # - r-tidyverse
   # - r-viridis
   # - rpy2
+
