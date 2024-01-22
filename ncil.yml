@@ -67,6 +67,8 @@ dependencies:
   - r-sjplot 
   - r-sjstats 
   - r-stargazer 
+  pip:
+    - rev_ai
   # - r-brms
   # - r-car 
   # - r-corrplot
