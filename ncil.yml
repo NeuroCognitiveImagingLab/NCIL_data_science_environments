@@ -70,7 +70,6 @@ dependencies:
   - r-stargazer 
   - pip:
     - mnelab
-  pip:
     - rev_ai
   # - r-brms
   # - r-car 
