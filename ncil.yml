@@ -64,6 +64,7 @@ dependencies:
   - r-base
   - r-essentials
   - r-arrow 
+  - r-rjson
   - r-e1071
   - r-emmeans 
   - r-ggeffects
