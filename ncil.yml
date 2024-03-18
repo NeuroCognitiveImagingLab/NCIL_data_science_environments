@@ -60,7 +60,7 @@ dependencies:
   - pyarrow
   - configparser
   - pingouin
-  - ocl-icd-system
+  # - ocl-icd-system
   - r-base
   - r-essentials
   - r-arrow 
