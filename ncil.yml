@@ -70,12 +70,14 @@ dependencies:
   - r-sjplot 
   - r-sjstats 
   - r-stargazer 
+  - r-corrplot
+  - r-yaml
   - pip:
     - mnelab
     - rev_ai
   # - r-brms
   # - r-car 
-  # - r-corrplot
+  
   # - r-devtools
   # - r-forecast
   # - r-ggthemes 
