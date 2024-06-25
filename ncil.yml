@@ -61,24 +61,25 @@ dependencies:
   - configparser
   - pingouin
   # - ocl-icd-system
-  - r-base
-  - r-essentials
-  - r-arrow 
-  - r-rjson
-  - r-e1071
-  - r-emmeans 
-  - r-ggeffects
-  - r-sjplot 
-  - r-sjstats 
-  - r-stargazer 
-  - r-corrplot
-  - r-yaml
+  # - r-base
+  # - r-essentials
+  # - r-arrow 
+  # - r-rjson
+  # - r-e1071
+  # - r-emmeans 
+  # - r-ggeffects
+  # - r-sjplot 
+  # - r-sjstats 
+  # - r-stargazer 
+  # - r-corrplot
+  # - r-yaml
   - pip:
     - mnelab
     - rev_ai
+
+  # nothing below here is probably needed
   # - r-brms
   # - r-car 
-  
   # - r-devtools
   # - r-forecast
   # - r-ggthemes 
