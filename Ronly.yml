@@ -1,4 +1,4 @@
-name: ncil
+name: Ronly
 channels:
   - conda-forge
   - nodefaults
