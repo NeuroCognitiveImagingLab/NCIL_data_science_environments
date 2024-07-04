@@ -61,6 +61,7 @@ dependencies:
   - configparser
   - pingouin
   # - ocl-icd-system
+  - cross-r-base
   - r-base
   - r-essentials
   - r-arrow 
