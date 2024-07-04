@@ -1,0 +1,21 @@
+name: ncil
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - cross-r-base
+  - r-base
+  # - r-essentials
+  # - r-arrow 
+  # - r-rjson
+  # - r-yaml
+  # - r-lme4 
+  # - r-mgcv
+  # - r-e1071
+  # - r-emmeans 
+  # - r-ggeffects
+  # - r-sjplot 
+  # - r-sjstats 
+  # - r-stargazer 
+  # - r-corrplot
+  
