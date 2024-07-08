@@ -7,19 +7,18 @@ dependencies:
   - notebook
   - jupyterlab
   - numpy
-  - altair
   - conda-forge::blas=*=openblas
   - cython
   - h5py
   - ipympl
   - ipywidgets
-  - matplotlib-base
-  - numexpr
+  - matplotlib
+  # - numexpr
   - pandas
   - pandoc
   - patsy
   - Pillow
-  - protobuf
+  # - protobuf
   - pytables
   - pyyaml
   - regex
@@ -29,17 +28,17 @@ dependencies:
   - seaborn
   - statsmodels
   - sympy
-  - widgetsnbextension
-  - xlrd
+  # - widgetsnbextension
+  # - xlrd
   - pip
   - pydicom
   - dicom2nifti
   - dcm2bids
   - gh
   - ghp-import
-  - jupyter-book
-  - jupyterlab-git
-  - nbconvert
+  # - jupyter-book
+  # - jupyterlab-git
+  # - nbconvert
   - nodejs
   - nibabel
   - nilearn
@@ -55,27 +54,26 @@ dependencies:
   - autoreject
   - python-picard
   - h5io
-  - h5py
   - pymatreader
   - pyarrow
   - configparser
   - pingouin
   # - ocl-icd-system
-  - cross-r-base
-  - r-base
-  - r-essentials
-  - r-arrow 
-  - r-rjson
-  - r-yaml
-  - r-lme4 
-  - r-mgcv
-  - r-e1071
-  - r-emmeans 
-  - r-ggeffects
-  - r-sjplot 
-  - r-sjstats 
-  - r-stargazer 
-  - r-corrplot
+  # - cross-r-base
+  # - r-base
+  # - r-essentials
+  # - r-arrow 
+  # - r-rjson
+  # - r-yaml
+  # - r-lme4 
+  # - r-mgcv
+  # - r-e1071
+  # - r-emmeans 
+  # - r-ggeffects
+  # - r-sjplot 
+  # - r-sjstats 
+  # - r-stargazer 
+  # - r-corrplot
   - pip:
     - mnelab
     - rev_ai
