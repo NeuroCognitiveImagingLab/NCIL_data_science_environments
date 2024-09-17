@@ -1,4 +1,4 @@
-name: neural_data_science
+name: test_env
 channels:
   - conda-forge
   - nodefaults
@@ -39,3 +39,5 @@ dependencies:
   - h5py
   - pymatreader
   - configparser
+  # - cross-r-base
+  - r-base

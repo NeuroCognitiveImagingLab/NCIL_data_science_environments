@@ -1,0 +1,19 @@
+name: jefflocke
+dependencies:
+  - python
+  - notebook
+  - conda-forge::blas=*=openblas  
+  - numpy
+  - matplotlib
+  - pandas
+  - regex
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - pip
+  - nodejs
+  - mne
+  - mne-bids
+  - autoreject
+  - python-picard

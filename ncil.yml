@@ -8,17 +8,12 @@ dependencies:
   - jupyterlab
   - numpy
   - conda-forge::blas=*=openblas
-  - cython
-  - h5py
   - ipympl
   - ipywidgets
-  - matplotlib
-  # - numexpr
+  - matplotlib-base
   - pandas
   - pandoc
-  - patsy
   - Pillow
-  # - protobuf
   - pytables
   - pyyaml
   - regex
@@ -27,18 +22,10 @@ dependencies:
   - scipy
   - seaborn
   - statsmodels
-  - sympy
-  # - widgetsnbextension
-  # - xlrd
   - pip
   - pydicom
   - dicom2nifti
   - dcm2bids
-  - gh
-  - ghp-import
-  # - jupyter-book
-  # - jupyterlab-git
-  # - nbconvert
   - nodejs
   - nibabel
   - nilearn
@@ -49,17 +36,14 @@ dependencies:
   - mne-qt-browser
   - pyxdf
   - pybv
-  - mayavi
-  - pyvista
+  # - mayavi
+  # - pyvista
   - autoreject
   - python-picard
-  - h5io
-  - pymatreader
+  # - h5io
+  # - pymatreader
   - pyarrow
-  - configparser
   - pingouin
-  # - ocl-icd-system
-  - cross-r-base
   - r-base
   - r-essentials
   - r-arrow 
@@ -100,9 +84,6 @@ dependencies:
   # - r-rodbc
   # - r-rsqlite
   # - r-see 
-  # - r-shiny
-  # - r-tidymodels
-  # - r-tidyverse
   # - r-viridis
   # - rpy2
 
