@@ -33,6 +33,7 @@ dependencies:
   - mne
   - mne-bids
   - mne-nirs
+  - mne-lsl
   - mne-qt-browser
   - pyxdf
   - pybv
