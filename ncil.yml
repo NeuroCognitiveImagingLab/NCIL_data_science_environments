@@ -6,7 +6,7 @@ dependencies:
   - python
   - notebook
   - jupyterlab
-  - numpy
+  - numpy>=2.1.*
   - conda-forge::blas=*=openblas
   - ipympl
   - ipywidgets
