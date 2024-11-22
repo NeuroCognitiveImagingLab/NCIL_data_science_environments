@@ -6,7 +6,7 @@ dependencies:
   - python
   - notebook
   - jupyterlab
-  - numpy
+  - numpy>=2.1.*
   - conda-forge::blas=*=openblas
   - ipympl
   - ipywidgets
@@ -33,6 +33,7 @@ dependencies:
   - mne>=1.8.0
   - mne-bids
   - mne-nirs
+  - mne-lsl
   - mne-qt-browser
   - pyxdf
   - pybv
