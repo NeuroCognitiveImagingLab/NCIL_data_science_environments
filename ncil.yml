@@ -30,7 +30,7 @@ dependencies:
   - nibabel
   - nilearn
   - opencv
-  - mne
+  - mne>=1.8.0
   - mne-bids
   - mne-nirs
   - mne-qt-browser
