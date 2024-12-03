@@ -6,7 +6,7 @@ dependencies:
   - python
   - notebook
   - jupyterlab
-  - numpy>=2.1.*
+  - numpy
   - conda-forge::blas=*=openblas
   - ipympl
   - ipywidgets
@@ -60,7 +60,7 @@ dependencies:
   - r-stargazer 
   - r-corrplot
   - pip:
-    - mnelab
+    # - mnelab
     - rev_ai
 
   # nothing below here is probably needed
