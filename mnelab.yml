@@ -1,0 +1,13 @@
+name: mnelab
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python
+  - pip
+  - conda-forge::blas=*=openblas
+  - notebook
+  - mne
+  - mne-bids
+  - pyxdf
+  - mnelab >=1.0.0
