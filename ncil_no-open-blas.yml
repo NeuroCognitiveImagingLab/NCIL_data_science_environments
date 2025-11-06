@@ -1,4 +1,4 @@
-name: ncil
+name: ncil-noopenblas
 channels:
   - conda-forge
   - nodefaults
