@@ -24,7 +24,6 @@ dependencies:
   - statsmodels
   - pip
   - pydicom
-  - pydicom
   - nibabel
   - dcm2bids
   - nodejs
