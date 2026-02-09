@@ -26,9 +26,8 @@ dependencies:
   - pydicom
   - nibabel
   - dcm2bids
-  - nodejs
-  - nibabel
   - nilearn
+  - nodejs
   - opencv
   - mne>=1.8.0
   - mne-bids
