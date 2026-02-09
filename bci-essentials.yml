@@ -9,5 +9,7 @@ dependencies:
   - black
   - flake8
   - pre-commit
-  - pylsl
   - mne-lsl
+  - pip
+  - pip:
+      - pylsl
