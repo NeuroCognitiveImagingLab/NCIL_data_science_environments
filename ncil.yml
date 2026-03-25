@@ -34,7 +34,7 @@ dependencies:
   - mne-bids
   - mne-nirs
   - mne-lsl
-  - mne-iclabel
+  - mne-icalabel
   - mne-qt-browser
   - pyxdf
   - pybv
