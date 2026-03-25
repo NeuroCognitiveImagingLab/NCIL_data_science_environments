@@ -27,12 +27,14 @@ dependencies:
   - nibabel
   - dcm2bids
   - nilearn
+  - nltk
   - nodejs
   - opencv
   - mne>=1.8.0
   - mne-bids
   - mne-nirs
   - mne-lsl
+  - mne-iclabel
   - mne-qt-browser
   - pyxdf
   - pybv
